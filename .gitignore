@@ -1,0 +1,5 @@
+ignore cache_aware_gemm
+ignore GEMM
+ignore GEMM_redRead
+ignore tiling_1D
+ignore Makefile
